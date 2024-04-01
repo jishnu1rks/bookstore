@@ -1,9 +1,9 @@
-# Simple Book Store App in MERN
+# Simple Book Store App in MERN #
 
-##Frontend
+## Frontend ##
 cd frontend
 npm install
 npm run dev
 
-##Backend
+## Backend ##
 node server.js
